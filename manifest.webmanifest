@@ -1,0 +1,11 @@
+{
+  "name": "오늘의 약속",
+  "short_name": "오늘의 약속",
+  "description": "하루의 작은 약속을 기록하는 가벼운 플래너",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fcfcf8",
+  "theme_color": "#2d8b60",
+  "lang": "ko-KR",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
